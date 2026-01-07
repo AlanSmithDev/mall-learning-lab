@@ -1,0 +1,16 @@
+mall-learning-lab
+================
+
+本仓库基于 macrozheng/mall
+（https://github.com/macrozheng/mall，Apache License 2.0）整理。
+
+原始版权声明与许可证条款见 LICENSE 文件，未作删改。
+
+整理工作：
+- 移除上游仓库专属配置；
+- 将根工程 artifactId 由 mall 重命名为 mall-learning-lab，并同步各子模块 parent 引用；
+- 以中文重写 README，按模块重新组织说明；
+- 为各模块的子包补充中文说明。
+
+除非另有说明，源自上游的源码其著作权归 macrozheng 所有；
+本仓库整理者不主张对上游代码的额外权利。
